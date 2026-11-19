@@ -1,10 +1,10 @@
-# Mes Coloriages de Noël
+# Coloriage de Noël gratuit
 
 Site statique gratuit, prêt à publier avec GitHub Pages.
 
 ## Contenu
 - index.html
-- 10 coloriages PNG A4 (200 dpi)
+- 20 coloriages PNG A4 (200 dpi) : 10 Noël + 10 poneys
 - boutons Télécharger et Voir / imprimer
 
 ## Mise en ligne avec GitHub Pages
